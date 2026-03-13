@@ -1,1 +1,2 @@
 "This is the update.txt file in the second branch " 
+"New line added and file is updated !" 
